@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Deployment
-addding some more text
+addding some more text,this is too godd
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.2ndb3
