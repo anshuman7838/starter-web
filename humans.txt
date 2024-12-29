@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-hello my name is damyio
+ hello my name is damyio, i live in japan
 # TEAM
 
     shogun shogun@git.training 
