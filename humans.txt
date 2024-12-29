@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+i am king of kings
 # TEAM
 
     shogun shogun@git.training 
