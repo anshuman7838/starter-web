@@ -7,7 +7,7 @@ addding some more text,this is too godd
 
 ## Purpose
 
-Sample website with plenty of files for demos.2ndb3
+Sample website with plenty of files for demos.2ndb3.do some more work
 
 ###copyright 
 
