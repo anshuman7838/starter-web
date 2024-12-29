@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
  hello my name is mangal, i live in india
+ also adding text for mutliple stashing
 # TEAM
 
     shogun shogun@git.training 
