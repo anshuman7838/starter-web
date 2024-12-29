@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work,adding some text for stashing example
 
 ## Deployment
-addding some more text,this is too godd
+addding some more text,this is too godd,adding some text to show stashing can store untracked files
 
 ## Purpose
 
