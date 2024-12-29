@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
- hello my name is mangal, i live in india
+ hello my name is ashok, i live in india
  also adding text for branch stashing
 # TEAM
 
