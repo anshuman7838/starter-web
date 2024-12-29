@@ -8,3 +8,7 @@ addding some more text,this is too godd
 ## Purpose
 
 Sample website with plenty of files for demos.2ndb3
+
+###copyright 
+
+2024 Git.training
