@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    shogun shogun@git.training 
 
 # THANKS
 
